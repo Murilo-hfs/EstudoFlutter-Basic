@@ -1,6 +1,6 @@
-# teste
+# Projeto Teste
 
-A new Flutter project.
+Meu primeiro projeto de estudos Flutter
 
 ## Getting Started
 
