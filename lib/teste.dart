@@ -1,1 +1,3 @@
 class Teste {}
+
+class Taete {}
